@@ -30,7 +30,7 @@ body{
 
 .item1, .item2, .item3 {
     flex: 1;
-    min-width: 500px;
+    min-width: 400px;
     background-color: #4a4245;
     padding: 5px;
     margin: 5px;
